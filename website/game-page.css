@@ -1,0 +1,19 @@
+
+.snake-game-button ,.fighting-game-button{
+ border: none;
+ background-color: white;
+ margin-bottom: 0;   
+}
+.snake-game-img,.fighting-game-img{
+    height: 50px;
+    width:50px;
+    margin-bottom: 0;
+}
+.snake-name{
+    margin-left: 15px;
+    margin-top: -5px;
+}
+.fighting-game-button{
+    color: white;
+    background-color: white;
+}

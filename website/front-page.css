@@ -1,0 +1,59 @@
+body{
+    margin: 100px;
+    background-color:silver;
+    font-family: Lato;
+}
+.front-page-text{
+    color:white;
+    font-size: 70px;
+    display: inline;
+    
+}
+.container1{
+    background-color: black;
+    height: 700px;
+    border-radius: 40px;
+   text-align: center;
+   line-height: 650px; 
+    
+}
+.front-page-button{
+    vertical-align: top;
+    margin-top: 304px;
+    height: 50px;
+    width: 50px;
+    border: none;
+    border-radius: 50px;
+    margin-left: 10px;
+    transition: color 0.2;
+}
+.front-page-button:hover{
+    color:aqua;
+    background-color: grey;
+}
+i{
+    font-size: 25px;
+    
+}
+span{
+    transition: color 0.2s;
+}
+span:hover{
+    cursor: pointer;
+}
+.i:hover{color:red;}
+.j:hover{color:blue;}
+.k:hover{color:rgb(166, 221, 216);}   
+.l:hover{color:rgb(155, 170, 17);}
+.m:hover{color:rgb(31, 88, 121);}
+.n:hover{color:rgb(253, 162, 167);}
+.o:hover{color:rgb(123, 245, 10);}
+.p:hover{color:rgb(233, 190, 155);}
+.q:hover{color:blue;}
+.r:hover{color:rgb(66, 7, 83);}
+.s:hover{color:rgb(194, 84, 166);}
+.t:hover{color:rgb(0, 255, 200);}
+.u:hover{color:rgba(235, 238, 213, 0.733);}
+.v:hover{color:rgb(0, 255, 221);}
+.x:hover{color:rgb(255, 0, 179);}
+.y:hover{color:rgb(255, 153, 0);}
